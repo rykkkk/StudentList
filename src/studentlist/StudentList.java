@@ -6,7 +6,8 @@ public class StudentList {
 
     public static void main(String[] args) {
 
-        Student[] students = new Student[4];
+        //change arr size to 5
+        Student[] students = new Student[5];
         
         Scanner input = new Scanner(System.in);
         
