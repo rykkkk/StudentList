@@ -3,11 +3,11 @@ package studentlist;
 public class PartTimeStudent extends Student {
     
     private int numCourses;
-
+/*
     public PartTimeStudent(String name) {
         super(name);
     }
-
+*/
     public PartTimeStudent(int numCourses, String name) {
         super(name);
         this.numCourses = numCourses;
